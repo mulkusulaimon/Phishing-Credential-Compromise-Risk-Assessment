@@ -5,7 +5,7 @@
 
 ---
 
-### Organization: **ABC Finance Ltd (Fictional Organization)**
+### Organization: **BrightPath digital service Ltd (Fictional Organization)**
 
 ### Risk ID: **R002**
 
@@ -19,7 +19,7 @@
 
 # 1. Executive Summary
 
-This risk assessment was conducted following a phishing incident involving an employee of ABC Finance Ltd. The employee clicked a phishing link contained in a malicious email and entered their company username and password into a fraudulent login page.
+This risk assessment was conducted following a phishing incident involving an employee of BrightPath digital service Ltd. The employee clicked a phishing link contained in a malicious email and entered their company username and password into a fraudulent login page.
 
 Following the incident, attempts were made to use the compromised credentials to access the organization's internal systems.
 
